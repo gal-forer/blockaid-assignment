@@ -1,0 +1,7 @@
+
+
+Q:
+    Explain in your own words what is an approval, and what are the differences between a transfer to a transferFrom function ?
+
+A:
+    transfer directly transfer tokens while transferFrom uses a third party to approve and then they transfer the tokens
